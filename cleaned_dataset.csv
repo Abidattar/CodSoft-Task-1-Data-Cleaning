@@ -1,0 +1,9 @@
+Employee_ID,Name,Age,Gender,City,Salary,Joining_Date
+101,Rahul,25,Male,Bangalore,30000,2024-01-10
+102,Priya,26,Female,Delhi,25000,2024-02-15
+103,Ali,23,Male,Mumbai,29000,2024-03-20
+104,Sneha,28,Female,Bangalore,30000,2024-04-10
+106,Vikram,26,Male,Delhi,35000,2024-05-12
+107,Meena,30,Female,Mumbai,30000,2024-06-18
+108,Arjun,27,Male,Pune,32000,2024-07-22
+110,John,29,Male,Delhi,40000,2024-09-01
